@@ -40,3 +40,7 @@ todo-app/
 ├── tasks.json # Auto-created to store saved tasks
 └── main.go # Application logic
 
+## 📂 Run
+
+  go run main.go
+
